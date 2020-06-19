@@ -9,6 +9,6 @@ Included scripts show how to calculate wet bulb temperature and wet bulb globe t
 
 If you have any questions, please contact Dawei Li (lidavvei@gmail.com) or Jiacan Yuan (jcyuan@fudan.edu.cn)
 
-# Cite us
+## Reference
 Li, D., Yuan, J., & Kopp, R. E. (2020). Escalating global exposure to compound heat-humidity extremes with warming. Environmental Research Letters, 15(6), 064003. https://doi.org/10.1088/1748-9326/ab7d04
 
